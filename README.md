@@ -21,7 +21,7 @@ O projeto consiste em uma plataforma onde o usuário vai acessar através do nav
 ### Tecnologias
 
 - React com o Vite para o frontend web, utilizando sass para estilização de componentes, e context API para fazer o contato com o backend utilizando o axios para fazer as requisições.
-- React-Native com o Expo para o App Mobile, utilizando styled components, e context API para fazer o contato com o backend utilizando o axios para fazer as requisições.
+- React-Native com o Expo para o App Mobile, utilizando context API para fazer o contato com o backend utilizando o axios para fazer as requisições.
 - Node.js com TypeScript para o backend, com Express para fazer o gerenciamento das rotas.
 - [Socket.io](http://Socket.io) para fazer a comunicação em tempo real de atualização de mensagens ( acho tão maravilhoso que todo projeto da vontade de implementar só para ver funcionando lindamente).
 - [Prisma ORM](https://prisma.io)( melhor ferramenta para BD que eu conheci ) com SQLite para banco de dados.
