@@ -1,4 +1,4 @@
-![Untitled](Untitled%20f2076ae539fa4ce2bf076294a2dac76b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/57686218/139775413-7b6247ce-560c-48a9-bdeb-baa4a81ca7c6.png)
 
 # Plataforma pré-evento DoWhile
 
